@@ -6,8 +6,7 @@
 目前该系统支持CPU状态，系统负载，软中断，mem，net监控，易于扩展更多系统监控。
 
 本项目整体结构图如下：
-
-![image](https://github.com/passenger6666/Linux-Monitor/assets/110956250/1831613d-e37e-42bb-a123-9c878ba00e64)
+<img width="799" alt="Linux-monitor结构图" src="https://github.com/passenger6666/Linux-Monitor/assets/110956250/360254ce-caba-430f-a2bf-b99b39fd823c">
 
 ## 系统功能
 
