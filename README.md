@@ -7,7 +7,7 @@
 
 本项目整体结构图如下：
 
-![image-20240707221813935](C:\Users\钟邦乾\AppData\Roaming\Typora\typora-user-images\image-20240707221813935.png)
+![image](https://github.com/passenger6666/Linux-Monitor/assets/110956250/1831613d-e37e-42bb-a123-9c878ba00e64)
 
 ## 系统功能
 
