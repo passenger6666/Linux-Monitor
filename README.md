@@ -7,7 +7,7 @@
 
 本项目整体结构图如下：
 
-![Linux-monitor结构图](E:\学习\工作相关\个人博客\Linux-monitor结构图.png)
+![image-20240707221813935](C:\Users\钟邦乾\AppData\Roaming\Typora\typora-user-images\image-20240707221813935.png)
 
 ## 系统功能
 
