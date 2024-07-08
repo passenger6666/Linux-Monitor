@@ -11,7 +11,7 @@ GrpcManagerImpl::~GrpcManagerImpl() {}
     ::google::protobuf::Empty* response) {
   monitor_infos_.Clear();
   monitor_infos_ = *request;
-  std::cout << "jinru" << request->soft_irq_size() << std::endl;
+  //std::cout << "jinru" << request->soft_irq_size() << std::endl;
   //   for (int i = 0; i < request->soft_irq_size(); i++) {
   //     std::cout << request->soft_irq(i).cpu() << " " <<
   //     request->soft_irq(i).hi()
